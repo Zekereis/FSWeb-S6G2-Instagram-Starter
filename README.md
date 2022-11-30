@@ -14,12 +14,12 @@
 
 Bu proje, create-react-app (CRA) kullanılarak oluşturuldu. Bu projenin çalışması için CRA'yı kurmanız gerekmeyecek. Projeyi uygun bağımlılıklarla kurmak için aşağıdaki adımları izleyin.
 
-- [ ]  Projeyi forklayarak bir kopyasını oluşturun.
-- [ ]  Terminalden klonlayın
-- [ ]  Projenin ana dizinine gidin
-- [ ]  `npm install --no-audit` komutuyla bağımlılıkları indirin
-- [ ]  `npm start` ile çalıştırın
-- [ ]  Push commits: git push origin `main`.
+- [x]  Projeyi forklayarak bir kopyasını oluşturun.
+- [x]  Terminalden klonlayın
+- [x]  Projenin ana dizinine gidin
+- [x]  `npm install --no-audit` komutuyla bağımlılıkları indirin
+- [x]  `npm start` ile çalıştırın
+- [x]  Push commits: git push origin `main`.
 
 ### Görev 2a: MUÜ
 
